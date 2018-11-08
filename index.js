@@ -6,5 +6,5 @@ function driversWithRevenueOver(drivers, revenue) {
 }
 
 driverNamesWithRevenueOver() {
-  
+  return function driversWithRevenueOver(drivers, revenue)
 }
